@@ -6,7 +6,8 @@
 ## 🌐 ¡Contáctame!
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]  
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />][instagram]
+
 <br />
 
 ---
@@ -20,7 +21,7 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="REST APIs" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_rest_api_logo_icon_169851.png" />
+<img align="left" alt="REST APIs" width="30px" src="https://cdn.worldvectorlogo.com/logos/api.svg" />
 <br />
 
 ### **Frontend:**
