@@ -1,46 +1,45 @@
-### ¡Bienvenido! Mi nombre es Antonio 👋
+### 👋 ¡Hola! Soy Antonio  
+#### Desarrollador de Software enfocado en el desarrollo web y backend.
 
-## Soy Estudiante y Desarrollador de Software  
-Apasionado por crear soluciones tecnológicas efectivas, con experiencia en desarrollo backend, frontend, y bases de datos.  
+---
 
-### Contáctame:
+## 🌐 ¡Contáctame!
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]  
 [<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]  
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][facebook]  
-<br />
-
-### Lenguajes y Herramientas que utilizo:
-
-**Backend:**  
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/266da7c5ba6f5b3a0c8a42396d6a7855be76e5f6/topics/spring/spring.png" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />  
-<br />
-
-**Frontend:**  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/266da7c5ba6f5b3a0c8a42396d6a7855be76e5f6/topics/html/html.png" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/266da7c5ba6f5b3a0c8a42396d6a7855be76e5f6/topics/css/css.png" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/266da7c5ba6f5b3a0c8a42396d6a7855be76e5f6/topics/javascript/javascript.png" width="30" height="30" />  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/266da7c5ba6f5b3a0c8a42396d6a7855be76e5f6/topics/react/react.png" width="30" height="30" />  
 <br />
 
 ---
 
-## 🔎 Mis estadísticas:
-<details>
-    <summary>🔎 Ver</summary>
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patinodeveloper&show_icons=true&theme=tokyonight)  
+## 🛠️ Lenguajes y Herramientas que utilizo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patinodeveloper&show_icons=true&theme=tokyonight)  
-
+### **Backend:**
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Hibernate" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="REST APIs" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_rest_api_logo_icon_169851.png" />
 <br />
-</details>
 
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/  
-[facebook]: https://www.facebook.com/ChoChochitos  
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
+### **Frontend:**
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<br />
+
+---
+
+## 🔥 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patinodeveloper&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patinodeveloper&layout=compact&theme=tokyonight)
+
+---
+
+[linkedin]: https://www.linkedin.com/in/antonio-patino-dev/
+[instagram]: https://www.instagram.com/anntonio_patino/
